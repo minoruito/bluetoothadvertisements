@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/common-1.0.0_6d3000202eb419c2015e2c9adca92a332546d645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/bf6c6f7e210bd4745535e28aebd1d449279c86c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_4fabf617f29f78cb9df0c30605fc7ce05ce4ec60.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2e1969eb482ba2d05608619183c123856642b1c">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c19e4d9120c20b93f81039618433fea26d229bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/e0be7902fa7112253c379d933f450d7ee646725c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_ae1125975327f4d2986ca5e95d02598f6681cd52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/69a34295d0f430f89250410155940df52def2a93/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_d59e6a4cefb3dba98f890b2f93617b28016ea96e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_7ee21effc003723d6ef99a1be33089804417877d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f35e6d6d2ee35dec6a6638ff9ebcf7b9b6ec91f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/2376379ba8b076a52512a9d4fb2e2bdb5c5a1fd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_0d1c4f3c80500d08fed3333a5e8bc9ce7491a7a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/03e6edd3a2d9707cdc40d66e7cc269085dccf810/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_66e9e11095d1e1a007c761dcad015de94007317d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/3b80db2456323e19f04dcd8d0ce553c5ce371040/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_a9d786b6982a6c9f26c5db166cb8e38a3341062c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/common-1.0.0_17f9183f58e05ef71ba10dc5fed13840d7c10f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/3d0f2977e0852112a2c104b25095bfc41c7d710b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_004aae5325ab9545a00994422a7faf08a28030f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/dc76c6c58231d547cea65d8dbf9ade020aa8beab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_1e431227afeb81189c111023154ab7abb7793102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/dc26b9cd7cccbc7b39c30ffeab855de7c57e4d7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_21662885802d792b6dc41e35ae3eb23eadac2355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/c978f10698a522658738e9e06abab50c5a7ddcf3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_f7233206a9f0bc8a6ecebd60769a9debc388c8f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/4dacc7830fe98cef3eeec447cfc2d181142a401a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_426f73abd9b357c6a5d02ffa2d089ad222d8a917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minoru/.android/build-cache/cd38ee4f6946bab2f9af2f7fe907be577bab4c68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/pre-dexed/debug/classes_e0f352bb45bb8949be3f08224d5db43f35dc3326.jar" />
+    </item>
+
+</items>

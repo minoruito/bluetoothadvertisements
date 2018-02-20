@@ -1,0 +1,4 @@
+#Mon Feb 19 17:56:02 JST 2018
+base.0=/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

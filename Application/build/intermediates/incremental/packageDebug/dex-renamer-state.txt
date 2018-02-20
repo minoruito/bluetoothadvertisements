@@ -1,0 +1,7 @@
+#Mon Feb 19 17:56:02 JST 2018
+base.0=/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c19e4d9120c20b93f81039618433fea26d229bd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f35e6d6d2ee35dec6a6638ff9ebcf7b9b6ec91f3/classes.dex
+base.1=/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f35e6d6d2ee35dec6a6638ff9ebcf7b9b6ec91f3
+file.0=/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c19e4d9120c20b93f81039618433fea26d229bd/classes.dex

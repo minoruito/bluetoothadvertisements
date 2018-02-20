@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/minoru/.android/build-cache/69a34295d0f430f89250410155940df52def2a93/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/minoru/.android/build-cache/69a34295d0f430f89250410155940df52def2a93/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/minoru/.android/build-cache/69a34295d0f430f89250410155940df52def2a93/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/minoru/workspace_android/android-BluetoothAdvertisements/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/minoru/.android/build-cache/dc76c6c58231d547cea65d8dbf9ade020aa8beab/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
